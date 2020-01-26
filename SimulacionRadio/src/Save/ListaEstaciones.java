@@ -2,7 +2,7 @@ package Save;
 
 public class ListaEstaciones {
 	private EstacionSave save;
-	private int largo;
+	int largo;
 	
 	ListaEstaciones() {
 		save = null;
